@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\windows 10\\downloads\\full stack .net iti\\c#\\tasks c#\\consoleapp\\consoleapp1\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\windows 10\\downloads\\full stack .net iti\\c#\\tasks c#\\consoleapp\\consoleapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\windows 10\\downloads\\full stack .net iti\\c#\\tasks c#\\consoleapp\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\windows 10\\downloads\\full stack .net iti\\c#\\tasks c#\\consoleapp\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\windows 10\\downloads\\full stack .net iti\\c#\\tasks c#\\consoleapp\\consoleapp1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A217D6F6-F1F4-4975-91D4-1D0EAE7DCBAE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:09:21.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:39:49.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class2.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:36:22.397Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class3.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class3.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class3.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:07:30.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class4.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class4.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\FULL STACK .NET ITI\\C#\\tasks C#\\ConsoleApp\\ConsoleApp1\\Class4.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:05:57.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
